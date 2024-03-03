@@ -81,8 +81,7 @@ The Cloth Shop Management System is a comprehensive application designed to faci
 
 1. Clone the project repository.
 2. Navigate to the project directory.
-3. Install the required Python dependencies: `pip install -r requirements.txt`
-4. Run the main application file: `python main.py`
+3. Run the main application file: `python main.py`
 
 ## How It's Beneficial
 
