@@ -1,4 +1,4 @@
-**Cloth Shop Management System**
+# Cloth Shop Management System
 
 ![Cloth Shop Mangament System](https://github.com/pathakjiop/Cloth-Shop-Mangament-System/assets/149372274/e391809a-e655-4111-9b9a-6b9043d4da33)
 
