@@ -61,6 +61,10 @@ This project is a Cloth Shop Management System developed using Python's Tkinter 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## Authors:
 [Atharv Pathak] - Initial work - [GitHub Profile](https://github.com/pathakjiop)
 
