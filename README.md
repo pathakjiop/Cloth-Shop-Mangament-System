@@ -1,6 +1,6 @@
 **Cloth Shop Management System**
 
-![Clothes-Management-System](https://github.com/pathakjiop/Cloth-Shop-Mangament-System/assets/149372274/658360cd-d378-4652-8785-d5e2017ab844)
+![Cloth Shop Mangament System](https://github.com/pathakjiop/Cloth-Shop-Mangament-System/assets/149372274/e391809a-e655-4111-9b9a-6b9043d4da33)
 
 **Introduction:**
 This project is a Cloth Shop Management System developed using Python's Tkinter library for the GUI, MySQL for the database, and various functionalities for managing cloth inventory including adding, viewing, buying, and removing cloths.
