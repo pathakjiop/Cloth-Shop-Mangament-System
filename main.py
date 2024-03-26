@@ -8,7 +8,7 @@ def create_connection():
         return mysql.connector.connect(
             host="localhost",
             user="root",
-            password="Panda2005",
+            password="YOUR_PASSWORD",
             database="clothing_shop_db"
         )
     except mysql.connector.Error as e:
