@@ -24,7 +24,7 @@ This project is a Cloth Shop Management System developed using Python's Tkinter 
 
 1. Clone the repository to your local machine.
    ```
-   git clone <repository-url>
+   git clone https://github.com/pathakjiop/Cloth-Shop-Mangament-System
    ```
    
 2. Install Python if not already installed. You can download it from [Python's official website](https://www.python.org/downloads/).
