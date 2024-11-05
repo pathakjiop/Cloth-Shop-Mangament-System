@@ -23,14 +23,14 @@ This project is a Cloth Shop Management System developed using Python's Tkinter 
 ## Installation and Setup:
 
 1. Clone the repository to your local machine.
-   ```
+   ```bash
    git clone https://github.com/pathakjiop/Cloth-Shop-Mangament-System
    ```
    
 2. Install Python if not already installed. You can download it from [Python's official website](https://www.python.org/downloads/).
 
 3. Install the required dependencies using pip:
-   ```
+   ```bash
    pip install mysql-connector-python
    ```
 
